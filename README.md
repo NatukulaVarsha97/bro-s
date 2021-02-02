@@ -14,3 +14,9 @@ java is object oriented language
 # MAAHI THE CAPTAIN
 ![alt MAHI](MS-Dhoni-New-Look.webp)
 
+#PYTHON CODE FOR SUM OF TWO NUMBERS
+ a=5
+ b=6
+ c=a+b
+ print(c)
+
