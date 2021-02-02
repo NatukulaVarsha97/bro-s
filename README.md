@@ -11,6 +11,6 @@ java is object oriented language
 * Encapsulation
 * Polymorphism
 * Abstraction
-# Insert image
+# MAAHI THE CAPTAIN
 ![alt MAHI](MS-Dhoni-New-Look.webp)
 
