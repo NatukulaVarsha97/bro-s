@@ -12,3 +12,5 @@ java is object oriented language
 * Polymorphism
 * Abstraction
 # Insert image
+![alt MAHI](MS-Dhoni-New-Look.webp)
+
